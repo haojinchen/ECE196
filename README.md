@@ -1,2 +1,2 @@
-# ECE196_SP21
+# ECE196
 This is an update from local machine
